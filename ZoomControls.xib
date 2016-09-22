@@ -51,7 +51,7 @@
                         <color key="titleColor" red="0.2470588235" green="0.31764705879999999" blue="0.70980392160000005" alpha="1" colorSpace="calibratedRGB"/>
                     </state>
                     <state key="highlighted">
-                        <color key="titleColor" white="1" alpha="0.40000000000000002" colorSpace="calibratedWhite"/>
+                        <color key="titleColor" red="0.31225135922431946" green="0.40639027953147888" blue="0.75928270816802979" alpha="0.40000000000000002" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                     <connections>
                         <action selector="zoomOut:" destination="-1" eventType="touchUpInside" id="37s-OF-uti"/>
