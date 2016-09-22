@@ -48,7 +48,10 @@
                     <fontDescription key="fontDescription" type="system" pointSize="39"/>
                     <inset key="titleEdgeInsets" minX="0.0" minY="0.0" maxX="0.0" maxY="5"/>
                     <state key="normal" title="-">
-                        <color key="titleColor" red="0.2470588235" green="0.31764705879999999" blue="0.70980392160000005" alpha="0.40000000000000002" colorSpace="calibratedRGB"/>
+                        <color key="titleColor" red="0.2470588235" green="0.31764705879999999" blue="0.70980392160000005" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="1" alpha="0.40000000000000002" colorSpace="calibratedWhite"/>
                     </state>
                     <connections>
                         <action selector="zoomOut:" destination="-1" eventType="touchUpInside" id="37s-OF-uti"/>
